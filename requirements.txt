@@ -1,0 +1,12 @@
+requests
+pytz
+Flask
+numpy
+pandas
+matplotlib
+nolds
+scipy
+scikit-learn
+joblib
+gunicorn
+uvicorn
